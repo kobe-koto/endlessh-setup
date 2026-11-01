@@ -174,7 +174,7 @@ cat <<EOF > /etc/endlessh/config
 Port $port
 
 # The endless banner is sent one line at a time. Delay (ms) between lines.
-Delay 10000
+Delay 5000
 
 # Maximum length of each randomized banner line.
 MaxLineLength 32
